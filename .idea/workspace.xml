@@ -2,69 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48ff630e-75b5-4e1c-a9c1-c438fd672ca3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/August 2015/OHDSI-Tutorial-PreFinal-mod.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/August 2015/OHDSI-Tutorial-PreFinal-mod.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/June 2015/ARM-OHDSI_Duke.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/June 2015/ARM-OHDSI_Duke.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/June 2015/OHDSI-Ryan-dsru-10jun2015.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/June 2015/OHDSI-Ryan-dsru-10jun2015.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/June 2015/OHDSI-Ryan-dsru-10jun20151.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/June 2015/OHDSI-Ryan-dsru-10jun20151.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/June 2015/Readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/May 2015/Readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/International-Data-Panel/OHDSI-Symposium-Panel-Parsa.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/International-Data-Panel/OHDSI-Symposium-Panel-Parsa.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/International-Data-Panel/OHDSI-Symposium-Panel-Peter.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/International-Data-Panel/OHDSI-Symposium-Panel-Peter.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/International-Data-Panel/OHDSI-Symposium-Panel.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/International-Data-Panel/OHDSI-Symposium-Panel.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/International-Data-Panel/OHDSI_Rae_for_upload.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/International-Data-Panel/OHDSI_Rae_for_upload.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/International-Data-Panel/OHDSI_Rae_for_upload.pptx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/Presentation-Slides/OHDSI-Ryan-Symposium-20Oct2015.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/Presentation-Slides/OHDSI-Ryan-Symposium-20Oct2015.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/Presentation-Slides/OHDSI-Symposium-RxPath-Hripcsak-2015-short.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/Presentation-Slides/OHDSI-Symposium-RxPath-Hripcsak-2015-short.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/Presentation-Slides/OHDSI-Symposiun-Pene-Talk.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/Presentation-Slides/OHDSI-Symposiun-Pene-Talk.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2015/October 2015/Readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/March 2016/OHDSI-AMIA-CRI-panel-24mar2016.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/March 2016/OHDSI-AMIA-CRI-panel-24mar2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/March 2016/Readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/2016-Poster-Session-430-black-and-white-copies-double-sided-stapled.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/2016-Software-Demonstrations-Handout-430-black-and-white-copies-double-sided-stapled.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/Readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/Community-Panel-Slides.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/Community-Panel-Slides.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-Symposium-Ryan-clinical-characterization-23sept2016.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-Symposium-Ryan-clinical-characterization-23sept2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-Symposium-Ryan-recap-23sept2016.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-Symposium-Ryan-recap-23sept2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-Sympsium-2016-Rjinbeek-prediction-23sept2016.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-Sympsium-2016-Rjinbeek-prediction-23sept2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-Sympsium-2016-Schuemie-estimation-23sept2016.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-Sympsium-2016-Schuemie-estimation-23sept2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-symposium-opening-2016-v4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-symposium-opening-2016-v4.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/MAIN-OHDSI-Symposium-2016-Common-Data-Model-and-Extract-Transform-Load-Tutorial.pptx.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/MAIN-OHDSI-Symposium-2016-Common-Data-Model-and-Extract-Transform-Load-Tutorial.pptx.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-overview-1-Ryan-24sept2016.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-overview-1-Ryan-24sept2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-programmer-track-Schuemie-24Sep2016.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-programmer-track-Schuemie-24Sep2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016-2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016-2.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-part-2-Schuemie-24Sep2016-edit.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-part-2-Schuemie-24Sep2016-edit.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Technology-Stack.pptx.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-Technology-Stack.pptx.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-vocabulary-theory-principles-v4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/OHDSI-vocabulary-theory-principles-v4.pdf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/PLP-Study-Designer-Track.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/materials/2016/September 2016/tutorial-slides/PLP-Study-Designer-Track.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/materials/2015/October-2015/International-Data-Panel/OHDSI-Symposium-Panel-Parsa.html" afterPath="$PROJECT_DIR$/materials/2015/October-2015/International-Data-Panel/OHDSI-Symposium-Panel-Parsa.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2015/October-2015/Presentation-Slides/OHDSI-Ryan-Symposium-20Oct2015.html" afterPath="$PROJECT_DIR$/materials/2015/October-2015/Presentation-Slides/OHDSI-Ryan-Symposium-20Oct2015.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2015/October-2015/Presentation-Slides/OHDSI-Symposium-RxPath-Hripcsak-2015-short.html" afterPath="$PROJECT_DIR$/materials/2015/October-2015/Presentation-Slides/OHDSI-Symposium-RxPath-Hripcsak-2015-short.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2015/October-2015/Presentation-Slides/OHDSI-Symposiun-Pene-Talk.html" afterPath="$PROJECT_DIR$/materials/2015/October-2015/Presentation-Slides/OHDSI-Symposiun-Pene-Talk.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/March-2016/OHDSI-AMIA-CRI-panel-24mar2016.html" afterPath="$PROJECT_DIR$/materials/2016/March-2016/OHDSI-AMIA-CRI-panel-24mar2016.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/Community-Panel-Slides.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/Community-Panel-Slides.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Symposium-Ryan-clinical-characterization-23sept2016.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Symposium-Ryan-clinical-characterization-23sept2016.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Symposium-Ryan-recap-23sept2016.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Symposium-Ryan-recap-23sept2016.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Sympsium-2016-Rjinbeek-prediction-23sept2016.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Sympsium-2016-Rjinbeek-prediction-23sept2016.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Sympsium-2016-Schuemie-estimation-23sept2016.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Sympsium-2016-Schuemie-estimation-23sept2016.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-symposium-opening-2016-v4.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-symposium-opening-2016-v4.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/MAIN-OHDSI-Symposium-2016-Common-Data-Model-and-Extract-Transform-Load-Tutorial.pptx.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/MAIN-OHDSI-Symposium-2016-Common-Data-Model-and-Extract-Transform-Load-Tutorial.pptx.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-overview-1-Ryan-24sept2016.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-overview-1-Ryan-24sept2016.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-programmer-track-Schuemie-24Sep2016.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-programmer-track-Schuemie-24Sep2016.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016-2.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016-2.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-part-2-Schuemie-24Sep2016-edit.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-part-2-Schuemie-24Sep2016-edit.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-vocabulary-theory-principles-v4.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-vocabulary-theory-principles-v4.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/PLP-Study-Designer-Track.html" afterPath="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/PLP-Study-Designer-Track.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2017/ MedInfo-2017/2017-08-OHDSI-medinfo-panel-Huser-vLOCAL-1356-noEXTRAs.pptx.html" afterPath="$PROJECT_DIR$/materials/2017/ MedInfo-2017/2017-08-OHDSI-medinfo-panel-Huser-vLOCAL-1356-noEXTRAs.pptx.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2017/ MedInfo-2017/2017-08-OHDSI-medinfo-panel-RWPark_for_share.html" afterPath="$PROJECT_DIR$/materials/2017/ MedInfo-2017/2017-08-OHDSI-medinfo-panel-RWPark_for_share.html" />
+      <change beforePath="$PROJECT_DIR$/materials/2017/OHDSI-China-WG-F2F/WENG_8_21.html" afterPath="$PROJECT_DIR$/materials/2017/OHDSI-China-WG-F2F/WENG_8_21.html" />
     </list>
     <ignored path="OHDSI-Research.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,17 +45,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-              <folding />
+      <file leaf-file-name="OHDSI-Symposium-Ryan-recap-23sept2016.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Symposium-Ryan-recap-23sept2016.html">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="307">
+              <caret line="1142" column="30" lean-forward="false" selection-start-line="1142" selection-start-column="30" selection-end-line="1142" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+      <find>@font-face{font-family</find>
+      <find>@font-face</find>
+      <find>&lt;img[^&gt;]+&gt;</find>
+      <find>@font-face[^&gt;]+&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/materials</dir>
+      <dir>$PROJECT_DIR$/materials/2017/ MedInfo-2017</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,6 +85,18 @@
       <list>
         <option value="$PROJECT_DIR$/materials/2016/September 2016/presentation-slides/OHDSI-symposium-opening-2016-v4.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-symposium-opening-2016-v4.html" />
+        <option value="$PROJECT_DIR$/materials/2017/OHDSI-China-WG-F2F/WENG_8_21.html" />
+        <option value="$PROJECT_DIR$/materials/2017/ MedInfo-2017/2017-08-OHDSI-medinfo-panel-Huser-vLOCAL-1356-noEXTRAs.pptx.html" />
+        <option value="$PROJECT_DIR$/materials/2017/ MedInfo-2017/2017-08-OHDSI-medinfo-panel-RWPark_for_share.html" />
+        <option value="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-overview-1-Ryan-24sept2016.html" />
+        <option value="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-programmer-track-Schuemie-24Sep2016.html" />
+        <option value="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016.html" />
+        <option value="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016-2.html" />
+        <option value="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-part-2-Schuemie-24Sep2016-edit.html" />
+        <option value="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-vocabulary-theory-principles-v4.html" />
+        <option value="$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/PLP-Study-Designer-Track.html" />
+        <option value="$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Symposium-Ryan-clinical-characterization-23sept2016.html" />
       </list>
     </option>
   </component>
@@ -165,6 +153,14 @@
               <item name="2016" type="462c0819:PsiDirectoryNode" />
               <item name="September-2016" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OHDSI-Research" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OHDSI-Research" type="462c0819:PsiDirectoryNode" />
+              <item name="materials" type="462c0819:PsiDirectoryNode" />
+              <item name="2016" type="462c0819:PsiDirectoryNode" />
+              <item name="September-2016" type="462c0819:PsiDirectoryNode" />
+              <item name="presentation-slides" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -175,7 +171,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/materials/2017/ MedInfo-2017" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
@@ -682,21 +678,22 @@
       <option name="presentableId" value="Default" />
       <updated>1518274864158</updated>
       <workItem from="1518274866323" duration="620000" />
-      <workItem from="1518276935488" duration="595000" />
+      <workItem from="1518276935488" duration="5243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1215000" />
+    <option name="totallyTimeSpent" value="5863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="23" width="1373" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24908958" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34377277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -712,7 +709,6 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -751,9 +747,150 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="660">
+          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2017/OHDSI-China-WG-F2F/WENG_8_21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="669" column="1012" lean-forward="true" selection-start-line="669" selection-start-column="1012" selection-end-line="669" selection-end-column="1012" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2017/ MedInfo-2017/2017-08-OHDSI-medinfo-panel-Huser-vLOCAL-1356-noEXTRAs.pptx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="675" column="265" lean-forward="false" selection-start-line="675" selection-start-column="265" selection-end-line="675" selection-end-column="265" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2017/ MedInfo-2017/2017-08-OHDSI-medinfo-panel-RWPark_for_share.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20936">
+          <caret line="680" column="256" lean-forward="false" selection-start-line="680" selection-start-column="256" selection-end-line="680" selection-end-column="256" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2015/October-2015/International-Data-Panel/OHDSI_Rae_for_upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#6036#29285#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2017/ MedInfo-2017/Medinfo-Panel-OHDSI-in-Europe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-overview-1-Ryan-24sept2016.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="682" column="2684" lean-forward="true" selection-start-line="682" selection-start-column="2684" selection-end-line="682" selection-end-column="2684" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-programmer-track-Schuemie-24Sep2016.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="692" column="36" lean-forward="true" selection-start-line="692" selection-start-column="36" selection-end-line="692" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="665" column="0" lean-forward="false" selection-start-line="665" selection-start-column="0" selection-end-line="665" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Technology-Stack.pptx.html">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="233">
+          <caret line="1188" column="116819" lean-forward="false" selection-start-line="1188" selection-start-column="74" selection-end-line="1188" selection-end-column="116819" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/PLP-Study-Designer-Track.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="701" column="142" lean-forward="true" selection-start-line="701" selection-start-column="142" selection-end-line="701" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-vocabulary-theory-principles-v4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-part-2-Schuemie-24Sep2016-edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/OHDSI-Estimation-tutorial-walkthru-2-Ryan-Schuemie-23Sept2016-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12486">
+          <caret line="654" column="528" lean-forward="true" selection-start-line="654" selection-start-column="528" selection-end-line="654" selection-end-column="528" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/tutorial-slides/MAIN-OHDSI-Symposium-2016-Common-Data-Model-and-Extract-Transform-Load-Tutorial.pptx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-888">
+          <caret line="1" column="69" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21976" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-symposium-opening-2016-v4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="6783" column="12" lean-forward="false" selection-start-line="6783" selection-start-column="12" selection-end-line="6783" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Symposium-Ryan-clinical-characterization-23sept2016.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116755">
+          <caret line="9604" column="7" lean-forward="false" selection-start-line="9604" selection-start-column="7" selection-end-line="9604" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materials/2016/September-2016/presentation-slides/OHDSI-Symposium-Ryan-recap-23sept2016.html">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="307">
+          <caret line="1142" column="30" lean-forward="false" selection-start-line="1142" selection-start-column="30" selection-end-line="1142" selection-end-column="30" />
         </state>
       </provider>
     </entry>
