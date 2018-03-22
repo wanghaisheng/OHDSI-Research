@@ -1,1 +1,7 @@
+title: OHDSI 粉丝团
+description: OHDSI 粉丝团是一个汇总、分享与 OHDSI(跨机构跨学科的医学研究)相关理论方法知识经验的网站.
+github:
+  is_project_page: false
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-cayman
