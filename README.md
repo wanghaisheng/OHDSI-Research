@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## 欢迎来到 OHDSI 粉丝团
 
-You can use the [editor on GitHub](https://github.com/wanghaisheng/OHDSI-Research/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+更多信息可访问
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [官方网站](https://www.ohdsi.org/)    
 
-### 案例
+* [官方讨论区参与讨论](https://http://forums.ohdsi.org/)    
+
+* [加入粉丝团或提供素材请添加助手微信:edwin_whs]()       
+
+
+### 教程、分享
 
 
 
@@ -23,7 +28,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-[OHDSI 在韩国的示范应用](materials/2017/OHDSI-China-WG-F2F/WENG_8_21/WENG_8_21.html)     
+[OHDSI 中国大会上的分享](materials/2017/OHDSI-China-WG-F2F/WENG_8_21/WENG_8_21.html)     
 
 
 
@@ -136,16 +141,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Open-Source Big Data Analytics in Healthcare](materials/2015/August-2015/OHDSI-Tutorial-PreFinal-mod/OHDSI-Tutorial-PreFinal-mod.html)
 
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-使用下面的正则对原始pdf2htmlex生成的html进行压缩处理
-
-@font-face[^>]+>
-
-<img[^>]+>
 
 
 
